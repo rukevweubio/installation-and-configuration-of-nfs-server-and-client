@@ -82,5 +82,9 @@ Solution: Check firewall rules and ensure the Samba service is running
  sudo apt update && sudo apt upgrade -y
 ```
 
+## Screenshot
 
+Below is a screenshot of the NFS server and client configuration:
+
+![NFS Server and Client Configuration](https://github.com/rukevweubio/installation-and-configuration-of-nfs-server-and-client/blob/main/Screenshot%20(420).png "NFS Setup Screenshot")
 
